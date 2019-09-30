@@ -1,3 +1,6 @@
-button {
-	padding: 30px;
+#header_image {
+	margin-top: 5em;
+}
+#nav_opacity {
+	opacity: 0.5;
 }
